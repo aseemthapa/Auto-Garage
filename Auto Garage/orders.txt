@@ -1,0 +1,2 @@
+A X XY 1 received 2 7
+B X XY 2 received 3 7
